@@ -1,5 +1,5 @@
 # Latihan Soal N0 1
-
+# ini adalah program untuk mengubah nilai angka menjadi nilai huruf berdasarkan kriteria tertentu.
 # Mengambil input nilai dari user
 nilai = float(input("Masukkan nilai angka: "))
 
@@ -15,6 +15,7 @@ else:
 
 # Menampilkan hasil
 print(f"Nilai Huruf: {nilai_huruf}")
+
 
 # Latihan Soal N0 2
 print("PROGRAM SELEKSI MODEL CATWALK")
